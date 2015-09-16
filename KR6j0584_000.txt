@@ -1,0 +1,11 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 東方最勝燈王如來經
+#+DATE: 2015-08-30 20:35:40.830480
+#+PROPERTY: JUAN 0
+#+PROPERTY: ID KR6j0584
+#+PROPERTY: SOURCE 高麗藏 東國大學校影印本
+#+PROPERTY: BASEEDITION T
+#+PROPERTY: WITNESS TKD
+
+¶¶<pb:KR6j0584_TKD_12-0066a>
+<md:KR6j0584_T_000-0868b>¶¶¶<md:KR6j0584_T_000-0868b>¶¶¶¶我闍那崛多歸命大智海毗盧遮那佛
